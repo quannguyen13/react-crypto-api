@@ -1,0 +1,13 @@
+/* ipad pro */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .coin-app{
+        margin: 0 60px;
+    }
+    .coin-row{
+        width: 100%;
+    }
+    .coin-container{
+        display: block;
+        width: 100%;
+    }
+}

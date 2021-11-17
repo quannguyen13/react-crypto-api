@@ -5,6 +5,7 @@
 #
 # Tech Used.
 * React Framework.
+* Accurate Search Engine.
 * Lifecycle Hooks: `useState`, `useEffect`, `axios`
 * API's Resource: https://api.coingecko.com 
 #

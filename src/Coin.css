@@ -1,3 +1,9 @@
+.coin-app{
+    
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+}
 .coin-container{
     display: flex;
     justify-content: center;
